@@ -1,0 +1,1 @@
+Simple JS clock with changed background in seconds and cuckoo sound
